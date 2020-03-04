@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<pnp:Provisioning xmlns:pnp="{{schema}}">
+  <pnp:Preferences Generator="MnS Provisioning Engine" />
+  <pnp:Templates ID="CONTAINER-TEMPLATE-BA80EAEB331E458F891EEC59391E2C7A">
+    <pnp:ProvisioningTemplate ID="TEMPLATE-BA80EAEB331E458F891EEC59391E2C7A" Version="1">
+
+    </pnp:ProvisioningTemplate>
+  </pnp:Templates>
+</pnp:Provisioning>

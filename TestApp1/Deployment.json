@@ -1,0 +1,28 @@
+﻿{
+  //                                                    //
+  //*********Please fill in the following***************//
+
+  "Name": "Mahinthan",
+  "User": "mahinthan@mahinthan.onmicrosoft.com",
+  "Password": "MahiNisha8688",
+  "Url": "https://mahinthan.sharepoint.com/",
+  "WelcomePageUrl": "",
+  "Navigation": "",
+
+  "TermStoreID": "",
+  "RootSiteMappingFolder": "C:\\Projects\\Tideway\\VSO\\02112016\\TIM\\Tideway.TIM.PIMS\\Tideway\\",
+  "PathToSearchConfig": "",
+  "Folders": {
+    "Lists": "E - Lists",
+    "WebFeatures": "F - WebFeatures"
+  },
+  "RootElements": {
+    "TermGroups": "A - TermGroups",
+    "SiteFields": "B - Fields",
+    "ContentTypes": "C - ContentTypes",
+    "SiteFeatures": "D - SiteFeatures",
+    "PageLayouts": "J - PageLayouts"
+  },
+
+  "PnPSchemaPrefix": "pnp"
+}
